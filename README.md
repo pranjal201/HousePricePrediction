@@ -1,5 +1,6 @@
 # HousePricePrediction
 <h2>Industrial Training Project</h2>
+<h3><a href = 'https://drive.google.com/file/d/1vxGyennUjBG5yHitESHybpDE6SSrU1sL/view?usp=sharing'>Certificate Link</a></h3>
 <h3>Data Set Used</h3>
 <ul>
 <li><a href = 'https://www.kaggle.com/datasets/shivachandel/kc-house-data'> Kaggle KC house data</a></li>
